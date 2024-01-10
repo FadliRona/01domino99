@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://01domino99.notionwm.net/sitemap.xml
